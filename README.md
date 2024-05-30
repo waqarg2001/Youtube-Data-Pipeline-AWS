@@ -78,7 +78,7 @@ To build this project, the following tools were used:
 Following is the architecture of the project.
 
 <p align='center'>
-  <img src='https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/AWS_Python_ETL_Project_Architecture.png' height=385 width=1100>
+  <img src='https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/AWS_Python_ETL_Project_Architecture.png' height=385 width=650>
 </p>  
 
 ## Dashboard
