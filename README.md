@@ -17,6 +17,7 @@
   <a href="#tools">Tools</a> •
   <a href="#architecture">Architecture</a> •
   <a href="#dashboard">Dashboard</a> •
+  <a href="#screenshots">Screenshots</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
 </p>
